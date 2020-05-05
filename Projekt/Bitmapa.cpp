@@ -1,0 +1,2 @@
+#include "Bitmapa.h"
+

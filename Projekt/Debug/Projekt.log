@@ -1,0 +1,26 @@
+﻿  BitmapaExt.cpp
+  Dylatacja.cpp
+c:\users\g\desktop\bitmapa\projekt\dylatacja.cpp(21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\dylatacja.cpp(23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\dylatacja.cpp(49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\dylatacja.cpp(58): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Erozja.cpp
+c:\users\g\desktop\bitmapa\projekt\erozja.cpp(22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\erozja.cpp(24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\erozja.cpp(50): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\erozja.cpp(59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Inwersja.cpp
+  Main.cpp
+  MyExceptions.cpp
+c:\users\g\desktop\bitmapa\projekt\myexceptions.cpp(23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\myexceptions.cpp(39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\myexceptions.cpp(41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Usrednianie.cpp
+c:\users\g\desktop\bitmapa\projekt\usrednianie.cpp(23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\usrednianie.cpp(25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\usrednianie.cpp(46): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\bitmapa\projekt\usrednianie.cpp(54): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Zerowanie.cpp
+  ZlozeniePrzeksztalcen.cpp
+  Generowanie kodu...
+  Projekt.vcxproj -> C:\Users\g\Desktop\Bitmapa\Projekt\Debug\Projekt.exe
